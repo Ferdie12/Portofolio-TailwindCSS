@@ -1167,6 +1167,30 @@ body {
     top: -70px;
   }
 
+  .md\:right-8 {
+    right: 2rem;
+  }
+
+  .md\:right-9 {
+    right: 2.25rem;
+  }
+
+  .md\:ml-10 {
+    margin-left: 2.5rem;
+  }
+
+  .md\:ml-7 {
+    margin-left: 1.75rem;
+  }
+
+  .md\:mr-7 {
+    margin-right: 1.75rem;
+  }
+
+  .md\:ml-6 {
+    margin-left: 1.5rem;
+  }
+
   .md\:h-\[500px\] {
     height: 500px;
   }
